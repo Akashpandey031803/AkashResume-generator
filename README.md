@@ -6,10 +6,10 @@
     <h2>Team Members</h2>
     <p>The Resume Builder project was developed by a dedicated team of individuals who bring a wealth of experience and expertise to the table. They include:</p>
     <ul>
-      <li>Yash Dahekar</li>
-      <li>Srijani Das</li>
-      <li>Gopal Dubey</li>
-      <li>Rohan Bhairi</li>
+      <li>Ajay kushwaha</li>
+      <li>Sachin dubey</li>
+      <li>Shantanu</li>
+      <li>Vijay</li>
     </ul>
     <h2>Roadmap</h2>
     <p>The development of the Resume Builder involved several stages, including:</p>
